@@ -1325,34 +1325,34 @@ show_menu() {
     echo -e "
   ${green}3X-UI Panel Management Script${plain}
   ${green}0.${plain} Exit Script
-вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”
+————————————————
   ${green}1.${plain} Install
   ${green}2.${plain} Update
   ${green}3.${plain} Update Menu
   ${green}4.${plain} Custom Version
   ${green}5.${plain} Uninstall
-вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”
+————————————————
   ${green}6.${plain} Reset Username & Password & Secret Token
   ${green}7.${plain} Reset Web Base Path
   ${green}8.${plain} Reset Settings
   ${green}9.${plain} Change Port
   ${green}10.${plain} View Current Settings
-вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”
+————————————————
   ${green}11.${plain} Start
   ${green}12.${plain} Stop
   ${green}13.${plain} Restart
   ${green}14.${plain} Check Status
   ${green}15.${plain} Check Logs
-вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”
+————————————————
   ${green}16.${plain} Enable Autostart
   ${green}17.${plain} Disable Autostart
-вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”
+————————————————
   ${green}18.${plain} SSL Certificate Management
   ${green}19.${plain} Cloudflare SSL Certificate
   ${green}20.${plain} IP Limit Management
   ${green}21.${plain} WARP Management
   ${green}22.${plain} Firewall Management
-вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”вЂ”
+————————————————
   ${green}23.${plain} Enable BBR 
   ${green}24.${plain} Update Geo Files
   ${green}25.${plain} Speedtest by Ookla
